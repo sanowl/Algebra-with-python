@@ -1,0 +1,65 @@
+algebra_project/
+|
+|-- src/
+|   |-- __init__.py
+|   |-- linear_equations.py
+|   |-- quadratic_equations.py
+|   |-- cubic_equations.py
+|   |-- quartic_equations.py
+|   |-- quintic_equations.py
+|   |-- exponential_equations.py
+|   |-- logarithmic_equations.py
+|   |-- trigonometric_equations.py
+|   |-- hyperbolic_equations.py
+|   |-- rational_equations.py
+|   |-- radical_equations.py
+|   |-- absolute_value_equations.py
+|   |-- piecewise_equations.py
+|   |-- polynomial_equations.py
+|   |-- power_equations.py
+|   |-- reciprocal_equations.py
+|   |-- ellipse_equations.py
+|   |-- parabola_equations.py
+|   |-- hyperbola_equations.py
+|   |-- circle_equations.py
+|   |-- sine_equations.py
+|   |-- cosine_equations.py
+|   |-- tangent_equations.py
+|   |-- cotangent_equations.py
+|   |-- secant_equations.py
+|   |-- cosecant_equations.py
+|
+|-- tests/
+|   |-- __init__.py
+|   |-- test_linear_equations.py
+|   |-- test_quadratic_equations.py
+|   |-- test_cubic_equations.py
+|   |-- test_quartic_equations.py
+|   |-- test_quintic_equations.py
+|   |-- test_exponential_equations.py
+|   |-- test_logarithmic_equations.py
+|   |-- test_trigonometric_equations.py
+|   |-- test_hyperbolic_equations.py
+|   |-- test_rational_equations.py
+|   |-- test_radical_equations.py
+|   |-- test_absolute_value_equations.py
+|   |-- test_piecewise_equations.py
+|   |-- test_polynomial_equations.py
+|   |-- test_power_equations.py
+|   |-- test_reciprocal_equations.py
+|   |-- test_ellipse_equations.py
+|   |-- test_parabola_equations.py
+|   |-- test_hyperbola_equations.py
+|   |-- test_circle_equations.py
+|   |-- test_sine_equations.py
+|   |-- test_cosine_equations.py
+|   |-- test_tangent_equations.py
+|   |-- test_cotangent_equations.py
+|   |-- test_secant_equations.py
+|   |-- test_cosecant_equations.py
+|
+|-- docs/
+|   |-- index.md
+|
+|-- setup.py
+|-- README.md
