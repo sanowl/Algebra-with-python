@@ -24,7 +24,7 @@ def solve_linear_equation(a: float, b: float) -> str:
     if math.isclose(b, 0):
       return "Infinite solutions"
     else:
-      return "No solution"
+      return "No solution" 
   else:
     return str(-b / a)
 
