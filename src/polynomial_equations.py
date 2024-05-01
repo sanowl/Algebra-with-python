@@ -17,7 +17,8 @@ def solve_polynomial_equation(a: float, b: float, c: float) -> str:
   equation = Eq(a*x**2 + b*x + c, 0)
   solutions = solve(equation, x)
   
-  if not solutions:
+  if not solutions: 
+    test number one 
     return "No solution"
   else:
     return ', '.join(str(sol.evalf()) for sol in solutions)
