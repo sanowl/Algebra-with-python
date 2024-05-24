@@ -20,8 +20,8 @@ def solve_linear_equation(a: float, b: float) -> str:
   Returns:
   str: The solution to the equation, or a string indicating that there are no solutions or infinite solutions.
   """
-  if math.isclose(a, 0):
-    if math.isclose(b, 0):
+  if math.isclose(a, 0, abs_tol=1e-09):
+    if math.isclose(b, 0, abs_tol=1e-09):
       return "Infinite solutions"
     else:
       return "No solution" 
